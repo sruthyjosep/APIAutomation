@@ -1,0 +1,4 @@
+﻿[{
+   "baseURL": "http://reqres.in",
+   "routeParameter": "api/register"
+}]

@@ -1,0 +1,59 @@
+﻿2019-06-23T22:59:34.0213384+12:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-23T22:59:34.0213384+12:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-23T22:59:34.0213384+12:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-23T22:59:34.0981333+12:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:59:34.0981333+12:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\sruth\source\repos\APIAutomation\TestResults" (default)
+2019-06-23T22:59:34.1011257+12:00;VSTestExecutionThread;Info;Profile: 
+2019-06-23T22:59:34.1799139+12:00;VSTestExecutionThread;Info;Log file path: C:\Users\sruth\source\repos\APIAutomation\TestResults\Unnamed project__2019-06-23T225934.log
+2019-06-23T22:59:34.2008587+12:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:59:34.2417492+12:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-23T22:59:34.2816424+12:00;Thread#14;Info;Checking license
+2019-06-23T22:59:34.2826404+12:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:59:34.2846348+12:00;Thread#14;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:59:34.3584378+12:00;Thread#14;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-06-23T22:59:48.3620071+12:00;Thread#14;Info;Evaluation delay finished.
+2019-06-23T22:59:48.3679585+12:00;Thread#14;Info;License check completed
+2019-06-23T22:59:48.3679585+12:00;Thread#14;Info;starting test run
+2019-06-23T22:59:48.3859128+12:00;Thread#14;Info;Discovering target: Default
+2019-06-23T22:59:48.3859128+12:00;Thread#14;Info;Discovering tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:59:48.9773287+12:00:Appdomain Disposed
+2019-06-23T22:59:48.9773287+12:00;Thread#14;Info;Discovered tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:59:48.9773287+12:00:Test Suite Dump
+2019-06-23T22:59:48.9803210+12:00:#0: Unnamed project/ - 
+2019-06-23T22:59:48.9803210+12:00:#1: Default - 
+2019-06-23T22:59:48.9803210+12:00:#2: APIAutomation - 
+2019-06-23T22:59:48.9803210+12:00:#3: API Automation for REQRES - 
+2019-06-23T22:59:49.0411576+12:00:#4: Register a user - TestAssembly:APIAutomation/Feature:API+Automation+for+REQRES/Scenario:Register+a+user
+2019-06-23T22:59:49.0411576+12:00:End: Test Suite Dump
+2019-06-23T22:59:49.0760649+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:59:49.0780596+12:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-23T22:59:49.0780596+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:59:49.0830464+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:59:49.0830464+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:59:49.0830464+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:59:49.0830464+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:59:49.0840435+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:59:49.0850422+12:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-23T22:59:49.0880327+12:00:Thread #0: creating new test thread executor for APIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-23T22:59:49.0900263+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:59:49.0910246+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:59:49.0910246+12:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-23T22:59:49.4281226+12:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-23T22:59:49.8370284+12:00:Thread#0:T:-> Loading plugin C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-23T22:59:49.8509913+12:00:Thread#0:T:-> Using app.config
+2019-06-23T22:59:49.9098350+12:00:Thread#0:B:Given I have a HTTP Client
+2019-06-23T22:59:50.3257216+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveAHTTPClient() (0.3s)
+2019-06-23T22:59:50.3267195+12:00:Thread#0:B:And I am testing URL
+2019-06-23T22:59:50.3456688+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAmTestingURL() (0.0s)
+2019-06-23T22:59:50.3456688+12:00:Thread#0:B:And I have a route parameter
+2019-06-23T22:59:50.3466671+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveARouteParameter() (0.0s)
+2019-06-23T22:59:50.3476647+12:00:Thread#0:B:And I accept content-type application/json
+2019-06-23T22:59:52.2356154+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAcceptContent_TypeApplicationJson("application/json") (1.9s)
+2019-06-23T22:59:53.8183820+12:00:Thread#0:B:Given the following parameters
+2019-06-23T22:59:53.8183820+12:00:Thread#0:B:  --- table step argument ---
+2019-06-23T22:59:53.8183820+12:00:Thread#0:B:  | email                 | password |
+2019-06-23T22:59:53.8183820+12:00:Thread#0:B:  | sruthyjosep@gmail.com | 1234567  |
+2019-06-23T23:00:00.8814840+12:00:Thread#0:T:done: APIFeatureSteps.GivenTheFollowingParameters(<table>) (7.1s)
+2019-06-23T23:00:02.2807411+12:00:Thread#0:B:And I have the request body
+2019-06-23T23:00:05.4502620+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveTheRequestBody() (3.2s)
+2019-06-23T23:00:06.8734559+12:00:Thread#0:B:And I send the request

@@ -1,0 +1,150 @@
+﻿2019-06-23T22:04:20.9261741+12:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-23T22:04:20.9261741+12:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-23T22:04:20.9261741+12:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-23T22:04:20.9730503+12:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:04:20.9730503+12:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\sruth\source\repos\APIAutomation\TestResults" (default)
+2019-06-23T22:04:20.9730503+12:00;VSTestExecutionThread;Info;Profile: 
+2019-06-23T22:04:20.9949896+12:00;VSTestExecutionThread;Info;Log file path: C:\Users\sruth\source\repos\APIAutomation\TestResults\Unnamed project__2019-06-23T220420.log
+2019-06-23T22:04:20.9969848+12:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:04:21.0059621+12:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-23T22:04:21.0119438+12:00;Thread#13;Info;Checking license
+2019-06-23T22:04:21.0119438+12:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:04:21.0129417+12:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:04:21.0259078+12:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-06-23T22:04:35.0274548+12:00;Thread#13;Info;Evaluation delay finished.
+2019-06-23T22:04:35.0354319+12:00;Thread#13;Info;License check completed
+2019-06-23T22:04:35.0354319+12:00;Thread#13;Info;starting test run
+2019-06-23T22:04:35.0483946+12:00;Thread#13;Info;Discovering target: Default
+2019-06-23T22:04:35.0493930+12:00;Thread#13;Info;Discovering tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:04:35.4912103+12:00:Appdomain Disposed
+2019-06-23T22:04:35.4912103+12:00;Thread#13;Info;Discovered tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:04:35.4922078+12:00:Test Suite Dump
+2019-06-23T22:04:35.4932046+12:00:#0: Unnamed project/ - 
+2019-06-23T22:04:35.4932046+12:00:#1: Default - 
+2019-06-23T22:04:35.4932046+12:00:#2: APIAutomation - 
+2019-06-23T22:04:35.4932046+12:00:#3: API Automation for REQRES - 
+2019-06-23T22:04:35.5699996+12:00:#4: Register a user - TestAssembly:APIAutomation/Feature:API+Automation+for+REQRES/Scenario:Register+a+user
+2019-06-23T22:04:35.5699996+12:00:End: Test Suite Dump
+2019-06-23T22:04:35.6059041+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:04:35.6078985+12:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-23T22:04:35.6078985+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:04:35.6148796+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:04:35.6148796+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:04:35.6148796+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:04:35.6148796+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:04:35.6168755+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:04:35.6188687+12:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-23T22:04:35.6218611+12:00:Thread #0: creating new test thread executor for APIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-23T22:04:35.6228583+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:04:35.6238562+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:04:35.6238562+12:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-23T22:04:35.7315679+12:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-23T22:04:36.1494499+12:00:Thread#0:T:-> Loading plugin C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-23T22:04:36.1584254+12:00:Thread#0:T:-> Using app.config
+2019-06-23T22:04:36.2800996+12:00:Thread#0:B:Given I have a HTTP Client
+2019-06-23T22:04:38.0942480+12:00:Thread#0:T:error: Exception has been thrown by the target of an invocation.
+2019-06-23T22:04:38.0962417+12:00:Thread#0:B:And I am testing URL
+2019-06-23T22:04:38.0962417+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.0962417+12:00:Thread#0:B:And I have a route parameter
+2019-06-23T22:04:38.0962417+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.0962417+12:00:Thread#0:B:And I accept content-type application/json
+2019-06-23T22:04:38.1002323+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1052194+12:00:Thread#0:B:Given the following parameters
+2019-06-23T22:04:38.1052194+12:00:Thread#0:B:  --- table step argument ---
+2019-06-23T22:04:38.1052194+12:00:Thread#0:B:  | email                 | password |
+2019-06-23T22:04:38.1052194+12:00:Thread#0:B:  | sruthyjosep@gmail.com | 1234567  |
+2019-06-23T22:04:38.1052194+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1052194+12:00:Thread#0:B:And I have the request body
+2019-06-23T22:04:38.1062170+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1062170+12:00:Thread#0:B:And I send the request
+2019-06-23T22:04:38.1062170+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1062170+12:00:Thread#0:B:And verify the response
+2019-06-23T22:04:38.1062170+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1561131+12:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-23T22:04:38.1561131+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:04:38.1561131+12:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-23T22:04:38.1561131+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:04:38.1561131+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:04:38.1561131+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:04:38.1561131+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:04:38.1561131+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:04:38.1561131+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:04:38.1561131+12:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-23T22:04:38.1690460+12:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 2.4364809 seconds
+2019-06-23T22:04:38.1710408+12:00:Thread#0: Test #4/1 is started on thread #0
+2019-06-23T22:04:38.1710408+12:00:Thread#0:B:Given I have a HTTP Client
+2019-06-23T22:04:38.1730363+12:00:Thread#0:T:error: Exception has been thrown by the target of an invocation.
+2019-06-23T22:04:38.1730363+12:00:Thread#0:B:And I am testing URL
+2019-06-23T22:04:38.1730363+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1730363+12:00:Thread#0:B:And I have a route parameter
+2019-06-23T22:04:38.1730363+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1730363+12:00:Thread#0:B:And I accept content-type application/json
+2019-06-23T22:04:38.1730363+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1780234+12:00:Thread#0:B:Given the following parameters
+2019-06-23T22:04:38.1780234+12:00:Thread#0:B:  --- table step argument ---
+2019-06-23T22:04:38.1780234+12:00:Thread#0:B:  | email                 | password |
+2019-06-23T22:04:38.1780234+12:00:Thread#0:B:  | sruthyjosep@gmail.com | 1234567  |
+2019-06-23T22:04:38.1780234+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1790198+12:00:Thread#0:B:And I have the request body
+2019-06-23T22:04:38.1790198+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1790198+12:00:Thread#0:B:And I send the request
+2019-06-23T22:04:38.1790198+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1800193+12:00:Thread#0:B:And verify the response
+2019-06-23T22:04:38.1800193+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1810153+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:04:38.1810153+12:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-23T22:04:38.1810153+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:04:38.1810153+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:04:38.1810153+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:04:38.1810153+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:04:38.1810153+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:04:38.1810153+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:04:38.1810153+12:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-23T22:04:38.1820133+12:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.0109725 seconds
+2019-06-23T22:04:38.1840065+12:00:Thread#0: Test #4/2 is started on thread #0
+2019-06-23T22:04:38.1840065+12:00:Thread#0:B:Given I have a HTTP Client
+2019-06-23T22:04:38.1860031+12:00:Thread#0:T:error: Exception has been thrown by the target of an invocation.
+2019-06-23T22:04:38.1860031+12:00:Thread#0:B:And I am testing URL
+2019-06-23T22:04:38.1860031+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1869988+12:00:Thread#0:B:And I have a route parameter
+2019-06-23T22:04:38.1869988+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1869988+12:00:Thread#0:B:And I accept content-type application/json
+2019-06-23T22:04:38.1869988+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1869988+12:00:Thread#0:B:Given the following parameters
+2019-06-23T22:04:38.1869988+12:00:Thread#0:B:  --- table step argument ---
+2019-06-23T22:04:38.1869988+12:00:Thread#0:B:  | email                 | password |
+2019-06-23T22:04:38.1869988+12:00:Thread#0:B:  | sruthyjosep@gmail.com | 1234567  |
+2019-06-23T22:04:38.1879964+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1879964+12:00:Thread#0:B:And I have the request body
+2019-06-23T22:04:38.1879964+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1879964+12:00:Thread#0:B:And I send the request
+2019-06-23T22:04:38.1879964+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1879964+12:00:Thread#0:B:And verify the response
+2019-06-23T22:04:38.1879964+12:00:Thread#0:T:skipped because of previous errors
+2019-06-23T22:04:38.1889943+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:04:38.1889943+12:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-23T22:04:38.1889943+12:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-23T22:04:38.1889943+12:00:Thread#0:Scheduler: No more tests for thread
+2019-06-23T22:04:38.1899930+12:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.0059865 seconds
+2019-06-23T22:04:38.2149243+12:00:Appdomain Disposed
+2019-06-23T22:04:38.2159241+12:00:Trying to cancel thread
+2019-06-23T22:04:38.2159241+12:00:Thread cancelled
+2019-06-23T22:04:38.2229347+12:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-23T22:04:38.2229347+12:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-23T22:04:38.2229347+12:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-23T22:04:38.2269299+12:00;Thread#13;Info;test run finished
+2019-06-23T22:04:38.2269299+12:00;Thread#13;Info;publishing test results
+2019-06-23T22:04:38.2588079+12:00;Thread#13;Info;test results published
+2019-06-23T22:04:38.2588079+12:00;Thread#13;Info;generating reports
+2019-06-23T22:04:38.3715047+12:00;Thread#13;Info;Starting external report generation process
+2019-06-23T22:04:40.6005421+12:00;Thread#13;Info;Successfully generated reports.
+2019-06-23T22:04:40.6035341+12:00;Thread#13;Info;Successfully generated reports
+2019-06-23T22:04:40.6155034+12:00:Total: 1 (test executions: 3)
+2019-06-23T22:04:40.6174981+12:00:Succeeded: 0
+2019-06-23T22:04:40.6184946+12:00:Ignored: 0
+2019-06-23T22:04:40.6194914+12:00:Pending: 0
+2019-06-23T22:04:40.6194914+12:00:Skipped: 0
+2019-06-23T22:04:40.6194914+12:00:Failed: 1
+2019-06-23T22:04:40.6334547+12:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-23T22:04:40.6334547+12:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\sruth\source\repos\APIAutomation\TestResults\Unnamed project__2019-06-23T220420.html'
+========== End of log file ==========

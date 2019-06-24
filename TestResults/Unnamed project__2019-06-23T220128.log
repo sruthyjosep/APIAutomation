@@ -1,0 +1,68 @@
+﻿2019-06-23T22:01:28.4196504+12:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-23T22:01:28.4196504+12:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-23T22:01:28.4196504+12:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-23T22:01:28.4774946+12:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:01:28.4784914+12:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\sruth\source\repos\APIAutomation\TestResults" (default)
+2019-06-23T22:01:28.4784914+12:00;VSTestExecutionThread;Info;Profile: 
+2019-06-23T22:01:28.5383327+12:00;VSTestExecutionThread;Info;Log file path: C:\Users\sruth\source\repos\APIAutomation\TestResults\Unnamed project__2019-06-23T220128.log
+2019-06-23T22:01:28.5413277+12:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:01:28.5722417+12:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-23T22:01:28.5812168+12:00;Thread#13;Info;Checking license
+2019-06-23T22:01:28.5822144+12:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:01:28.5832123+12:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:01:28.6011636+12:00;Thread#13;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-06-23T22:01:42.6027140+12:00;Thread#13;Info;Evaluation delay finished.
+2019-06-23T22:01:42.6156729+12:00;Thread#13;Info;License check completed
+2019-06-23T22:01:42.6156729+12:00;Thread#13;Info;starting test run
+2019-06-23T22:01:42.6296355+12:00;Thread#13;Info;Discovering target: Default
+2019-06-23T22:01:42.6306327+12:00;Thread#13;Info;Discovering tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:01:44.0129349+12:00:Appdomain Disposed
+2019-06-23T22:01:44.0139325+12:00;Thread#13;Info;Discovered tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:01:44.0149301+12:00:Test Suite Dump
+2019-06-23T22:01:44.0169237+12:00:#0: Unnamed project/ - 
+2019-06-23T22:01:44.0169237+12:00:#1: Default - 
+2019-06-23T22:01:44.0169237+12:00:#2: APIAutomation - 
+2019-06-23T22:01:44.0169237+12:00:#3: API Automation for REQRES - 
+2019-06-23T22:01:44.1266320+12:00:#4: Register a user - TestAssembly:APIAutomation/Feature:API+Automation+for+REQRES/Scenario:Register+a+user
+2019-06-23T22:01:44.1266320+12:00:End: Test Suite Dump
+2019-06-23T22:01:44.2163908+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:01:44.2193828+12:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-23T22:01:44.2193828+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:01:44.3051540+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:01:44.3071488+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:01:44.3071488+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:01:44.3071488+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:01:44.3111375+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:01:44.3121347+12:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-23T22:01:44.3231057+12:00:Thread #0: creating new test thread executor for APIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-23T22:01:44.3280939+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:01:44.3280939+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:01:44.3290907+12:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-23T22:01:44.5993660+12:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-23T22:01:45.4221651+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:01:45.4221651+12:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-23T22:01:45.4221651+12:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-23T22:01:45.4221651+12:00:Thread#0:Scheduler: No more tests for thread
+2019-06-23T22:01:45.4630556+12:00:Thread#0: Test #4/0 is finished on thread #0 as InitializationFailed within 0.8636896 seconds
+2019-06-23T22:01:45.4710350+12:00:Appdomain Disposed
+2019-06-23T22:01:45.4720326+12:00:Trying to cancel thread
+2019-06-23T22:01:45.4720326+12:00:Thread cancelled
+2019-06-23T22:01:45.4820060+12:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-23T22:01:45.4820060+12:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-23T22:01:45.4820060+12:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-23T22:01:45.5119247+12:00;Thread#13;Info;test run finished
+2019-06-23T22:01:45.5119247+12:00;Thread#13;Info;publishing test results
+2019-06-23T22:01:45.5787467+12:00;Thread#13;Info;test results published
+2019-06-23T22:01:45.5797438+12:00;Thread#13;Info;generating reports
+2019-06-23T22:01:45.9866549+12:00;Thread#13;Info;Starting external report generation process
+2019-06-23T22:01:54.8698911+12:00;Thread#13;Info;Successfully generated reports.
+2019-06-23T22:01:54.8778702+12:00;Thread#13;Info;Successfully generated reports
+2019-06-23T22:01:54.9177642+12:00:Total: 1
+2019-06-23T22:01:54.9217526+12:00:Succeeded: 0
+2019-06-23T22:01:54.9287337+12:00:Ignored: 0
+2019-06-23T22:01:54.9287337+12:00:Pending: 0
+2019-06-23T22:01:54.9287337+12:00:Skipped: 0
+2019-06-23T22:01:54.9297305+12:00:Failed: 1
+2019-06-23T22:01:54.9526704+12:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-23T22:01:54.9526704+12:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\sruth\source\repos\APIAutomation\TestResults\Unnamed project__2019-06-23T220128.html'
+========== End of log file ==========

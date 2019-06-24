@@ -1,0 +1,150 @@
+﻿2019-06-23T22:59:00.5049995+12:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-06-23T22:59:00.5049995+12:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2019-06-23T22:59:00.5049995+12:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-06-23T22:59:00.5618450+12:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:59:00.5618450+12:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\sruth\source\repos\APIAutomation\TestResults" (default)
+2019-06-23T22:59:00.5618450+12:00;VSTestExecutionThread;Info;Profile: 
+2019-06-23T22:59:00.5937608+12:00;VSTestExecutionThread;Info;Log file path: C:\Users\sruth\source\repos\APIAutomation\TestResults\Unnamed project__2019-06-23T225900.log
+2019-06-23T22:59:00.5957552+12:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:59:00.6047310+12:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-06-23T22:59:00.6127104+12:00;Thread#15;Info;Checking license
+2019-06-23T22:59:00.6137072+12:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:59:00.6147067+12:00;Thread#15;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-06-23T22:59:00.6306617+12:00;Thread#15;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-06-23T22:59:14.6322068+12:00;Thread#15;Info;Evaluation delay finished.
+2019-06-23T22:59:14.6421791+12:00;Thread#15;Info;License check completed
+2019-06-23T22:59:14.6421791+12:00;Thread#15;Info;starting test run
+2019-06-23T22:59:14.6541495+12:00;Thread#15;Info;Discovering target: Default
+2019-06-23T22:59:14.6541495+12:00;Thread#15;Info;Discovering tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:59:14.7259582+12:00:Appdomain Disposed
+2019-06-23T22:59:14.7259582+12:00;Thread#15;Info;Discovered tests from assembly: C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\APIAutomation.dll
+2019-06-23T22:59:14.7269538+12:00:Test Suite Dump
+2019-06-23T22:59:14.7289475+12:00:#0: Unnamed project/ - 
+2019-06-23T22:59:14.7289475+12:00:#1: Default - 
+2019-06-23T22:59:14.7289475+12:00:#2: APIAutomation - 
+2019-06-23T22:59:14.7289475+12:00:#3: API Automation for REQRES - 
+2019-06-23T22:59:14.7568730+12:00:#4: Register a user - TestAssembly:APIAutomation/Feature:API+Automation+for+REQRES/Scenario:Register+a+user
+2019-06-23T22:59:14.7578709+12:00:End: Test Suite Dump
+2019-06-23T22:59:14.8087344+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:59:14.8117260+12:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-06-23T22:59:14.8117260+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:59:14.8177103+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:59:14.8177103+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:59:14.8177103+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:59:14.8177103+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:59:14.8197046+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:59:14.8217047+12:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-06-23T22:59:14.8256889+12:00:Thread #0: creating new test thread executor for APIAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-06-23T22:59:14.8276833+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:59:14.8276833+12:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-06-23T22:59:14.8286805+12:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-06-23T22:59:14.9603300+12:00:Thread#0: Test #4/0 is started on thread #0
+2019-06-23T22:59:15.4899118+12:00:Thread#0:T:-> Loading plugin C:\Users\sruth\source\repos\APIAutomation\APIAutomation\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-06-23T22:59:15.4988902+12:00:Thread#0:T:-> Using app.config
+2019-06-23T22:59:15.5876515+12:00:Thread#0:B:Given I have a HTTP Client
+2019-06-23T22:59:16.1192307+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveAHTTPClient() (0.4s)
+2019-06-23T22:59:16.1202256+12:00:Thread#0:B:And I am testing URL
+2019-06-23T22:59:16.1431632+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAmTestingURL() (0.0s)
+2019-06-23T22:59:16.1431632+12:00:Thread#0:B:And I have a route parameter
+2019-06-23T22:59:16.1441612+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveARouteParameter() (0.0s)
+2019-06-23T22:59:16.1441612+12:00:Thread#0:B:And I accept content-type application/json
+2019-06-23T22:59:16.1750790+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAcceptContent_TypeApplicationJson("application/json") (0.0s)
+2019-06-23T22:59:16.1840631+12:00:Thread#0:B:Given the following parameters
+2019-06-23T22:59:16.1840631+12:00:Thread#0:B:  --- table step argument ---
+2019-06-23T22:59:16.1840631+12:00:Thread#0:B:  | email                 | password |
+2019-06-23T22:59:16.1840631+12:00:Thread#0:B:  | sruthyjosep@gmail.com | 1234567  |
+2019-06-23T22:59:16.1850539+12:00:Thread#0:T:done: APIFeatureSteps.GivenTheFollowingParameters(<table>) (0.0s)
+2019-06-23T22:59:16.1850539+12:00:Thread#0:B:And I have the request body
+2019-06-23T22:59:16.2329258+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveTheRequestBody() (0.0s)
+2019-06-23T22:59:16.2329258+12:00:Thread#0:B:And I send the request
+2019-06-23T22:59:17.1315224+12:00:Thread#0:T:done: APIFeatureSteps.GivenISendTheRequestAsync() (0.9s)
+2019-06-23T22:59:17.1315224+12:00:Thread#0:B:And verify the response
+2019-06-23T22:59:17.2272659+12:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<200>. Actual:<(null)>. 
+2019-06-23T22:59:17.2731431+12:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-06-23T22:59:17.2741403+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:59:17.2741403+12:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-23T22:59:17.2741403+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:59:17.2741403+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:59:17.2741403+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:59:17.2741403+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:59:17.2741403+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:59:17.2741403+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:59:17.2741403+12:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-06-23T22:59:17.2861096+12:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 2.3257796 seconds
+2019-06-23T22:59:17.2881028+12:00:Thread#0: Test #4/1 is started on thread #0
+2019-06-23T22:59:17.2881028+12:00:Thread#0:B:Given I have a HTTP Client
+2019-06-23T22:59:17.2890985+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveAHTTPClient() (0.0s)
+2019-06-23T22:59:17.2890985+12:00:Thread#0:B:And I am testing URL
+2019-06-23T22:59:17.2890985+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAmTestingURL() (0.0s)
+2019-06-23T22:59:17.2890985+12:00:Thread#0:B:And I have a route parameter
+2019-06-23T22:59:17.2890985+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveARouteParameter() (0.0s)
+2019-06-23T22:59:17.2890985+12:00:Thread#0:B:And I accept content-type application/json
+2019-06-23T22:59:17.2900999+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAcceptContent_TypeApplicationJson("application/json") (0.0s)
+2019-06-23T22:59:17.2900999+12:00:Thread#0:B:Given the following parameters
+2019-06-23T22:59:17.2900999+12:00:Thread#0:B:  --- table step argument ---
+2019-06-23T22:59:17.2900999+12:00:Thread#0:B:  | email                 | password |
+2019-06-23T22:59:17.2900999+12:00:Thread#0:B:  | sruthyjosep@gmail.com | 1234567  |
+2019-06-23T22:59:17.2900999+12:00:Thread#0:T:done: APIFeatureSteps.GivenTheFollowingParameters(<table>) (0.0s)
+2019-06-23T22:59:17.2900999+12:00:Thread#0:B:And I have the request body
+2019-06-23T22:59:17.2910937+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveTheRequestBody() (0.0s)
+2019-06-23T22:59:17.2910937+12:00:Thread#0:B:And I send the request
+2019-06-23T22:59:17.9324019+12:00:Thread#0:T:done: APIFeatureSteps.GivenISendTheRequestAsync() (0.6s)
+2019-06-23T22:59:17.9333764+12:00:Thread#0:B:And verify the response
+2019-06-23T22:59:17.9353704+12:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<200>. Actual:<(null)>. 
+2019-06-23T22:59:17.9373659+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:59:17.9373659+12:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-06-23T22:59:17.9373659+12:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-06-23T22:59:17.9373659+12:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-06-23T22:59:17.9373659+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-06-23T22:59:17.9373659+12:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-06-23T22:59:17.9373659+12:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-06-23T22:59:17.9373659+12:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-06-23T22:59:17.9373659+12:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-06-23T22:59:17.9383627+12:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.6502599 seconds
+2019-06-23T22:59:17.9393588+12:00:Thread#0: Test #4/2 is started on thread #0
+2019-06-23T22:59:17.9393588+12:00:Thread#0:B:Given I have a HTTP Client
+2019-06-23T22:59:17.9403571+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveAHTTPClient() (0.0s)
+2019-06-23T22:59:17.9403571+12:00:Thread#0:B:And I am testing URL
+2019-06-23T22:59:17.9403571+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAmTestingURL() (0.0s)
+2019-06-23T22:59:17.9403571+12:00:Thread#0:B:And I have a route parameter
+2019-06-23T22:59:17.9413547+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveARouteParameter() (0.0s)
+2019-06-23T22:59:17.9413547+12:00:Thread#0:B:And I accept content-type application/json
+2019-06-23T22:59:17.9413547+12:00:Thread#0:T:done: APIFeatureSteps.GivenIAcceptContent_TypeApplicationJson("application/json") (0.0s)
+2019-06-23T22:59:17.9413547+12:00:Thread#0:B:Given the following parameters
+2019-06-23T22:59:17.9413547+12:00:Thread#0:B:  --- table step argument ---
+2019-06-23T22:59:17.9413547+12:00:Thread#0:B:  | email                 | password |
+2019-06-23T22:59:17.9413547+12:00:Thread#0:B:  | sruthyjosep@gmail.com | 1234567  |
+2019-06-23T22:59:17.9423511+12:00:Thread#0:T:done: APIFeatureSteps.GivenTheFollowingParameters(<table>) (0.0s)
+2019-06-23T22:59:17.9423511+12:00:Thread#0:B:And I have the request body
+2019-06-23T22:59:17.9423511+12:00:Thread#0:T:done: APIFeatureSteps.GivenIHaveTheRequestBody() (0.0s)
+2019-06-23T22:59:17.9423511+12:00:Thread#0:B:And I send the request
+2019-06-23T22:59:18.5756962+12:00:Thread#0:T:done: APIFeatureSteps.GivenISendTheRequestAsync() (0.6s)
+2019-06-23T22:59:18.5756962+12:00:Thread#0:B:And verify the response
+2019-06-23T22:59:18.5766571+12:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<200>. Actual:<(null)>. 
+2019-06-23T22:59:18.5806791+12:00:Thread#0:Scheduler: get next test for thread 0
+2019-06-23T22:59:18.5806791+12:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-23T22:59:18.5806791+12:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-06-23T22:59:18.5806791+12:00:Thread#0:Scheduler: No more tests for thread
+2019-06-23T22:59:18.5836443+12:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.6442855 seconds
+2019-06-23T22:59:18.6095701+12:00:Appdomain Disposed
+2019-06-23T22:59:18.6115611+12:00:Trying to cancel thread
+2019-06-23T22:59:18.6115611+12:00:Thread cancelled
+2019-06-23T22:59:18.6215345+12:00:Thread#-1:Scheduler: get next test for thread -1
+2019-06-23T22:59:18.6215345+12:00:Thread#:Scheduler: at the end of normal test queue
+2019-06-23T22:59:18.6215345+12:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-06-23T22:59:18.6265208+12:00;Thread#15;Info;test run finished
+2019-06-23T22:59:18.6265208+12:00;Thread#15;Info;publishing test results
+2019-06-23T22:59:18.6833712+12:00;Thread#15;Info;test results published
+2019-06-23T22:59:18.6843669+12:00;Thread#15;Info;generating reports
+2019-06-23T22:59:18.8329694+12:00;Thread#15;Info;Starting external report generation process
+2019-06-23T22:59:20.8625389+12:00;Thread#15;Info;Successfully generated reports.
+2019-06-23T22:59:20.8645340+12:00;Thread#15;Info;Successfully generated reports
+2019-06-23T22:59:20.8765022+12:00:Total: 1 (test executions: 3)
+2019-06-23T22:59:20.8784970+12:00:Succeeded: 0
+2019-06-23T22:59:20.8794938+12:00:Ignored: 0
+2019-06-23T22:59:20.8794938+12:00:Pending: 0
+2019-06-23T22:59:20.8794938+12:00:Skipped: 0
+2019-06-23T22:59:20.8804910+12:00:Failed: 1
+2019-06-23T22:59:20.8934567+12:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-06-23T22:59:20.8934567+12:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\sruth\source\repos\APIAutomation\TestResults\Unnamed project__2019-06-23T225900.html'
+========== End of log file ==========
